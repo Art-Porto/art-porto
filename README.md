@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="Arthur Porto - Data Analytics e IA aplicada" />
+</p>
+
 <h1 align="center">Arthur Porto</h1>
 
 <p align="center">
@@ -17,11 +21,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=2DD4BF&labelColor=111827" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=38BDF8&labelColor=111827" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=F59E0B&labelColor=111827" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F59E0B&labelColor=111827" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=2DD4BF&labelColor=111827" alt="Jupyter" />
 </p>
 
 ---
@@ -82,12 +86,12 @@ O que busco deixar claro em cada projeto:
 ## 📊 GitHub em números
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Art-Porto&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="GitHub stats de Arthur Porto" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Porto&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais usadas por Arthur Porto" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Art-Porto&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=0D1117&title_color=2DD4BF&text_color=E6EDF3&icon_color=F59E0B&border_color=30363D" alt="GitHub stats de Arthur Porto" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Porto&layout=compact&bg_color=0D1117&title_color=2DD4BF&text_color=E6EDF3&border_color=30363D" alt="Linguagens mais usadas por Arthur Porto" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Art-Porto&hide_border=true&theme=transparent" alt="Sequência de contribuições no GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Art-Porto&background=0D1117&border=30363D&stroke=30363D&ring=2DD4BF&fire=F59E0B&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2DD4BF&sideLabels=A8B3C7&dates=A8B3C7" alt="Sequência de contribuições no GitHub" />
 </p>
 
 ---

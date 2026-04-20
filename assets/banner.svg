@@ -1,0 +1,72 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Arthur Porto - Data Analytics e IA aplicada</title>
+  <desc id="desc">Banner horizontal com tema de dados, tecnologia, gestao e analise.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#172033"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="96" x2="1060" y2="278" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.176 0 0 0 0 0.831 0 0 0 0 0.749 0 0 0 0.28 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+
+  <g opacity="0.16">
+    <path d="M0 72H1280M0 144H1280M0 216H1280M0 288H1280" stroke="#E6EDF3" stroke-width="1"/>
+    <path d="M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360M1200 0V360" stroke="#E6EDF3" stroke-width="1"/>
+  </g>
+
+  <g opacity="0.58" filter="url(#softGlow)">
+    <path d="M78 254C146 220 175 159 252 177C329 195 329 247 414 228C499 209 519 109 605 126C691 143 710 224 792 201C874 178 880 105 963 97C1046 89 1084 151 1202 117" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+    <path d="M78 284C160 252 224 267 292 236C360 205 396 157 468 169C540 181 559 253 632 245C705 237 739 173 812 169C885 165 921 230 1002 211C1083 192 1118 143 1202 155" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" opacity="0.58"/>
+  </g>
+
+  <g opacity="0.92">
+    <circle cx="252" cy="177" r="6" fill="#2DD4BF"/>
+    <circle cx="605" cy="126" r="6" fill="#38BDF8"/>
+    <circle cx="963" cy="97" r="6" fill="#F59E0B"/>
+    <circle cx="414" cy="228" r="5" fill="#E6EDF3"/>
+    <circle cx="792" cy="201" r="5" fill="#E6EDF3"/>
+  </g>
+
+  <g transform="translate(76 76)">
+    <rect x="0" y="0" width="94" height="94" rx="22" fill="#0B1220" stroke="#30363D"/>
+    <path d="M27 67V42M47 67V27M67 67V36" stroke="#2DD4BF" stroke-width="8" stroke-linecap="round"/>
+    <path d="M22 72H74" stroke="#E6EDF3" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  </g>
+
+  <text x="194" y="122" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="0">
+    Arthur Porto
+  </text>
+  <text x="198" y="168" fill="#2DD4BF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="0">
+    Data Analytics • IA aplicada • Gestão • Finanças
+  </text>
+  <text x="198" y="214" fill="#A8B3C7" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="0">
+    Dados bem tratados, decisões mais claras e entregas com impacto prático.
+  </text>
+
+  <g transform="translate(198 247)">
+    <rect x="0" y="0" width="156" height="42" rx="21" fill="#132235" stroke="#2DD4BF" opacity="0.95"/>
+    <text x="24" y="28" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Python</text>
+    <circle cx="125" cy="21" r="5" fill="#2DD4BF"/>
+
+    <rect x="174" y="0" width="124" height="42" rx="21" fill="#132235" stroke="#38BDF8" opacity="0.95"/>
+    <text x="198" y="28" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">SQL</text>
+    <circle cx="270" cy="21" r="5" fill="#38BDF8"/>
+
+    <rect x="316" y="0" width="174" height="42" rx="21" fill="#132235" stroke="#F59E0B" opacity="0.95"/>
+    <text x="340" y="28" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Power BI</text>
+    <circle cx="458" cy="21" r="5" fill="#F59E0B"/>
+  </g>
+</svg>
