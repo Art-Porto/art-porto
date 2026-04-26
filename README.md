@@ -67,11 +67,12 @@ Repositório principal: [`data-portfolio`](https://github.com/Art-Porto/data-por
 
 | Projeto / pasta | O que contém | Status |
 | --- | --- | --- |
-| [`ScrubsByAna`](https://github.com/Art-Porto/data-portfolio/tree/main/ScrubsByAna) | Análise comercial e financeira com notebooks, gráficos, relatórios, recomendações de compra, KPIs e plano de ação. | 🚧 Em evolução |
 | [`fiap`](https://github.com/Art-Porto/data-portfolio/tree/main/fiap) | Estudos e projetos da Pós Tech FIAP, incluindo análises exploratórias e Tech Challenge. | 🚧 Em evolução |
 | [`alura`](https://github.com/Art-Porto/data-portfolio/tree/main/alura) | Trilha de Python para Data Science, com fundamentos, NumPy, Pandas, I/O e agrupamentos. | 📚 Em estudo |
 | [`google-data-analytics`](https://github.com/Art-Porto/data-portfolio/tree/main/google-data-analytics) | Organização dos estudos do certificado Google Data Analytics. | 🗂️ Em organização |
 | [`docs`](https://github.com/Art-Porto/data-portfolio/tree/main/docs) | Materiais auxiliares, prompts e documentos de apoio ao aprendizado. | ✅ Ativo |
+
+> Projetos com dados sensíveis (clientes, fornecedores ou financeiros pessoais) são desenvolvidos em repositório privado para preservar a privacidade dos envolvidos. Disponíveis sob solicitação para fins de avaliação.
 
 O que busco deixar claro em cada projeto:
 
@@ -109,7 +110,8 @@ O que busco deixar claro em cada projeto:
 ## 🎯 No momento estou focado em
 
 - Consolidar projetos de Data Analytics no [`data-portfolio`](https://github.com/Art-Porto/data-portfolio).
-- Melhorar a apresentação executiva dos estudos com READMEs, gráficos e relatórios.
+- Construir pipelines reprodutíveis (raw → interim → processed) com validação automatizada.
+- Comparar abordagens de IA aplicada (Claude / Codex) na geração de análises e relatórios executivos.
 - Aprofundar Python, Pandas, estatística aplicada, BI e fundamentos de Machine Learning.
 - Desenvolver projetos conectados a saúde, varejo, gestão e finanças.
 
